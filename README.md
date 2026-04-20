@@ -1,2 +1,3 @@
-# Data-Structures-using-Python 
-This repository contains all the practical implementations, assignments, and problem-solving exercises completed as part of the Data Structures and Algorithms using Python in Semester 2. It covers fundamental concepts along with hands-on coding and optimized solutions using Python.
+
+# Big-Data-Unstructured-Databases
+This repository contains all the practical implementations, assignments, and projects completed as part of the Big Data &amp; Unstructured Databases course in Semester 2. It covers concepts of big data along with hands-on experience in MongoDB and NoSQL databases.
