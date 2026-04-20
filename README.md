@@ -1,2 +1,1 @@
-# Data-Structures-using-Python
-This repository contains all the practical implementations, assignments, and problem-solving exercises completed as part of the Data Structures and Algorithms using Python in Semester 2. It covers fundamental concepts along with hands-on coding and optimized solutions using Python.
+# Data-Structures-using-Python This repository contains all the practical implementations, assignments, and problem-solving exercises completed as part of the Data Structures and Algorithms using Python in Semester 2. It covers fundamental concepts along with hands-on coding and optimized solutions using Python.
